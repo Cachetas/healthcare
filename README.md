@@ -1,7 +1,6 @@
 # healthcare
 
-University work of Java program to manage a health care facility. 
-Following the object-oriented programming paradigm, the program has options to insert, modify and consult information about patients, health care professionals, create teams and manage appointments.
+ University work of Java program to manage a health care facility. Based in the object-oriented programming paradigm, the program has options to insert, modify and consult information about patients and health care professionals, and to create teams and manage appointments.
 
 Classes Diagram:
 
